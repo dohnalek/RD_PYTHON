@@ -1,0 +1,4 @@
+git add 'file'
+git commit -m "first commit"
+git remote add origin https://github.com/dohnalek/RD_PYTHON.git
+git push -u origin master
